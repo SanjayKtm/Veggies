@@ -1,0 +1,95 @@
+ [
+    {
+      "name": "US Dollar",
+      "buy": "107.68",
+      "sell": "108.28"
+      
+    },{
+      "name": "Malaysian Ringit",
+      "buy": "26.38",
+      "sell": "26.53"
+      
+    },{
+      "name": "Indian Rupees",
+      "buy": "160.00",
+      "sell": "160.15"
+      
+    },{
+      "name": "Qatari Riyal",
+      "buy": "29.58",
+      "sell": "29.74"
+      
+    },{
+      "name": "Swiss Franc",
+      "buy": "108.66",
+      "sell": "109.27"
+      
+    },{
+      "name": "UAE Dirham",
+      "buy": "29.32",
+      "sell": "29.48"
+      
+    },
+    {
+      "name": "Canadian Dollar",
+      "buy": "82.15",
+      "sell": "82.03"
+      
+    },{
+      "name": "Swedish Kroner",
+      "buy": "12.92",
+      "sell": "----"
+      
+    },{
+      "name": "Euro",
+      "buy": "120.76",
+      "sell": "121.44"
+      
+    },{
+      "name": "HongKong Dollar",
+      "buy": "13.83",
+      "sell": "----"
+      
+    },{
+      "name": "Japanese Yen",
+      "buy": "09.76",
+      "sell": "09.82"
+      
+    },{
+      "name": "Korean Won",
+      "buy": "09.03",
+      "sell": "09.08"
+      
+    },
+       {
+      "name": "Chinese Yuan",
+      "buy": "16.44",
+      "sell": "16.53"
+      
+    },{
+      "name": "Australian Dollar",
+      "buy": "77.84",
+      "sell": "78.28"
+      
+    },{
+      "name": "Thai Bhat",
+      "buy": "03.09",
+      "sell": "03.03"
+      
+    },{
+      "name": "Singapore Dollar",
+      "buy": "77.96",
+      "sell": "78.39"
+      
+    },{
+      "name": "Danish Kroner",
+      "buy": "16.24",
+      "sell": "----"
+      
+    },{
+      "name": "Pound Sterling",
+      "buy": "156.75",
+      "sell": "157.73"
+      
+    }
+ ]

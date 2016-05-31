@@ -1,0 +1,23 @@
+[
+	{
+		"name": "Petrol",
+		"price": "Rs 100.5 per Litre"
+		},
+	{
+		"name": "Diesel",
+		"price": "Rs 100.5 per Litre"
+		},
+	{
+		"name": "Kerosene",
+		"price": "Rs 100.5 per Litre"
+		},
+	{
+		"name": "LP Gas",
+		"price": "Rs 100.5 per Litre"
+		},
+	{
+		"name": "Air Turbine Fuel",
+		"price": "Rs 1000.5 per KiloLitre"
+		}
+	
+]

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title></title>
+
+    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.min.css">
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
+    <link href="css/ionic.app.css" rel="stylesheet">
+    -->
+
+    <!-- ionic/angularjs js -->
+    <script src="lib/ionic/js/ionic.bundle.js"></script>
+
+    <!-- cordova script (this will be a 404 during development) -->
+    <script src="cordova.js"></script>
+
+    <!-- your app's js -->
+    <script src="js/app.js"></script>
+  </head>
+  <body ng-app="starter">
+
+    <ion-pane>
+      <ion-header-bar class="bar-calm">
+        <h1 class="title">Petroleum Products</h1>
+      </ion-header-bar>
+      
+
+      <ion-content ng-controller="ListController">
+        <ion-refresher on-refresh="doRefresh()">
+        </ion-refresher>
+      
+        <ion-list >
+        <ion-item ng-repeat='item in plist' 
+          class="item-thumbnail-left item-icon-right item-text-wrap" >
+      <h2>{{item.name}}</h2>
+      <h3>{{item.price}}</h3>
+      
+    </ion-item>
+  </ion-list>
+      </ion-content> 
+    </ion-pane>
+  </body>
+</html>
+ 

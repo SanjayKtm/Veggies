@@ -1,0 +1,126 @@
+ [
+    {
+      "name": "Apple(kg)",
+      "min": 100,
+      "max": 110
+      
+    },{
+      "name": "Cucumber(kg)",
+      "min": 80,
+      "max": 90
+      
+    },{
+      "name": "Tomato(kg)",
+      "min": 70,
+      "max": 75
+      
+    },{
+      "name": "Cucumber(kg)",
+      "min": 80,
+      "max": 90
+      
+    },{
+      "name": "Apple(kg)",
+      "min": 130,
+      "max": 140
+      
+    },{
+      "name": "Cucumber(kg)",
+      "min": 80,
+      "max": 90
+      
+    },
+    {
+      "name": "Apple(kg)",
+      "min": 130,
+      "max": 140
+      
+    },{
+      "name": "Cucumber(kg)",
+      "min": 80,
+      "max": 90
+      
+    },{
+      "name": "Apple(kg)",
+      "min": 130,
+      "max": 140
+      
+    },{
+      "name": "Cucumber(kg)",
+      "min": 80,
+      "max": 90
+      
+    },{
+      "name": "Apple(kg)",
+      "min": 130,
+      "max": 140
+      
+    },{
+      "name": "Cucumber(kg)",
+      "min": 80,
+      "max": 90
+      
+    },
+       {
+      "name": "Apple(kg)",
+      "min": 130,
+      "max": 140
+      
+    },{
+      "name": "Cucumber(kg)",
+      "min": 80,
+      "max": 90
+      
+    },{
+      "name": "Tomato(kg)",
+      "min": 70,
+      "max": 75
+      
+    },{
+      "name": "Cucumber(kg)",
+      "min": 80,
+      "max": 90
+      
+    },{
+      "name": "Apple(kg)",
+      "min": 130,
+      "max": 140
+      
+    },{
+      "name": "Cucumber(kg)",
+      "min": 80,
+      "max": 90
+      
+    },
+    {
+      "name": "Apple(kg)",
+      "min": 130,
+      "max": 140
+      
+    },{
+      "name": "Cucumber(kg)",
+      "min": 80,
+      "max": 90
+      
+    },{
+      "name": "Apple(kg)",
+      "min": 130,
+      "max": 140
+      
+    },{
+      "name": "Cucumber(kg)",
+      "min": 80,
+      "max": 90
+      
+    },{
+      "name": "Apple(kg)",
+      "min": 130,
+      "max": 140
+      
+    },{
+      "name": "Cucumber(kg)",
+      "min": 80,
+      "max": 90
+      
+    }
+ ]

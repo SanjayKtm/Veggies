@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Hallmark Gold",
+		"tola": "Rs 56,000.00 per tola",
+		"gm": "Rs 48,010.00 per 10 gms"
+		},
+	{
+		"name": "Tejabi Gold",
+		"tola":"Rs 55,750.09 per tola",
+		"gm":"RS 47,795.00 per 10 gms"
+		},
+	{
+		"name": "Silver",
+		"tola":"Rs 770.09 per tola",
+		"gm":"RS 660.00 per 10 gms"
+		}
+]
